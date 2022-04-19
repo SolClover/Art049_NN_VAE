@@ -3,4 +3,4 @@ Public repository containing materials used in the Variational Autoencoder (VAE)
 
 ![Variational AutoEncoders optimised](https://user-images.githubusercontent.com/24861699/163709311-b6bd4785-253b-4071-9f70-1090028b2171.png)
 
-Article link: TBC
+Article link: https://towardsdatascience.com/vae-variational-autoencoders-how-to-employ-neural-networks-to-generate-new-images-bdeb216ed2c0
